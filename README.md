@@ -28,14 +28,8 @@ My full paper list is shown at [my personal homepage](https://zhaoyang-chu.githu
 - **Machine Unlearning for Code Language Models**, First Author, Submitted to **[ICSE 2025](https://conf.researchr.org/home/icse-2025)**.
 - **Explore Large Language Models in Code Summarization Evaluation**, Co-Author, Submitted to **[ICSE 2025](https://conf.researchr.org/home/icse-2025)**.
 - **Learning-based Pre-trained Code Model Selection for Reuse**, Co-Author, Submitted to **[TSE](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=32)**.
-- **Graph Neural Networks for Vulnerability Detection: A Counterfactual Explanation**.<br>
-**Zhaoyang Chu**, Yao Wan\*, Qian Li, Yang Wu, Hongyu Zhang, Yulei Sui, Guandong Xu, Hai Jin.<br>
-**[ISSTA 2024](https://2024.issta.org/)**. *The ACM SIGSOFT International Symposium on Software Testing and Analysis*. **CCF-A**.<br>
-\[ [Paper](notion://www.notion.so/assets/CFExplainer.pdf) \] \[ [Code](https://github.com/Zhaoyang-Chu/counterfactual-vulnerability-detection) \] \[ [arXiv](https://arxiv.org/abs/2404.15687) \]
-- **Hierarchical Graph Representation Learning for the Prediction of Drug-Target Binding Affinity**.<br>
-**Zhaoyang Chu**, Feng Huang, Haitao Fu, Yuan Quan, Xionghui Zhou, Shichao Liu, Wen Zhang\*.<br>
-**[Information Sciences](https://www.sciencedirect.com/journal/information-sciences)**, 2022. **Impact Factor 8.1, CCF-B**.<br>
-\[ [Paper](notion://www.notion.so/assets/HGRL-DTA.pdf) \] \[ [Code](https://github.com/Zhaoyang-Chu/HGRL-DTA) \] \[ [Link](https://www.sciencedirect.com/science/article/abs/pii/S0020025522010908) \]
+- **[ISSTA 2024](https://2024.issta.org/)**, **[Graph Neural Networks for Vulnerability Detection: A Counterfactual Explanation](https://arxiv.org/abs/2404.15687)**, **Zhaoyang Chu**, Yao Wan\*, Qian Li, Yang Wu, Hongyu Zhang, Yulei Sui, Guandong Xu, Hai Jin.
+- **[Information Sciences 2022](https://www.sciencedirect.com/journal/information-sciences)**, **[Hierarchical Graph Representation Learning for the Prediction of Drug-Target Binding Affinity](https://www.sciencedirect.com/science/article/abs/pii/S0020025522010908)**, **Zhaoyang Chu**, Feng Huang, Haitao Fu, Yuan Quan, Xionghui Zhou, Shichao Liu, Wen Zhang\*.
 
 <!--
 **Zhaoyang-Chu/Zhaoyang-Chu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
