@@ -23,11 +23,8 @@
 
 ### 📝 Selected Papers
 
-My full paper list is shown at [my personal homepage](https://zhaoyang-chu.github.io).
+My full paper list is shown on [my personal homepage](https://zhaoyang-chu.github.io).
 
-- **Machine Unlearning for Code Language Models**, First Author, Submitted to **[ICSE 2025](https://conf.researchr.org/home/icse-2025)**.
-- **Explore Large Language Models in Code Summarization Evaluation**, Co-Author, Submitted to **[ICSE 2025](https://conf.researchr.org/home/icse-2025)**.
-- **Learning-based Pre-trained Code Model Selection for Reuse**, Co-Author, Submitted to **[TSE](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=32)**.
 - **[ISSTA 2024](https://2024.issta.org/)**, **[Graph Neural Networks for Vulnerability Detection: A Counterfactual Explanation](https://arxiv.org/abs/2404.15687)**, **Zhaoyang Chu**, Yao Wan\*, Qian Li, Yang Wu, Hongyu Zhang, Yulei Sui, Guandong Xu, Hai Jin.
 - **[Information Sciences 2022](https://www.sciencedirect.com/journal/information-sciences)**, **[Hierarchical Graph Representation Learning for the Prediction of Drug-Target Binding Affinity](https://www.sciencedirect.com/science/article/abs/pii/S0020025522010908)**, **Zhaoyang Chu**, Feng Huang, Haitao Fu, Yuan Quan, Xionghui Zhou, Shichao Liu, Wen Zhang\*.
 
