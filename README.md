@@ -25,8 +25,8 @@
 
 My full paper list is shown on [my personal homepage](https://zhaoyang-chu.github.io).
 
-- **[ISSTA 2024](https://2024.issta.org/)**, **[Graph Neural Networks for Vulnerability Detection: A Counterfactual Explanation](https://arxiv.org/abs/2404.15687)**, **Zhaoyang Chu**, Yao Wan\*, Qian Li, Yang Wu, Hongyu Zhang, Yulei Sui, Guandong Xu, Hai Jin.
-- **[Information Sciences 2022](https://www.sciencedirect.com/journal/information-sciences)**, **[Hierarchical Graph Representation Learning for the Prediction of Drug-Target Binding Affinity](https://www.sciencedirect.com/science/article/abs/pii/S0020025522010908)**, **Zhaoyang Chu**, Feng Huang, Haitao Fu, Yuan Quan, Xionghui Zhou, Shichao Liu, Wen Zhang\*.
+- **ISSTA 2024**, **[Graph Neural Networks for Vulnerability Detection: A Counterfactual Explanation](https://arxiv.org/abs/2404.15687)**, **Zhaoyang Chu**, Yao Wan\*, Qian Li, Yang Wu, Hongyu Zhang, Yulei Sui, Guandong Xu, Hai Jin.
+- **Information Sciences 2022**, **[Hierarchical Graph Representation Learning for the Prediction of Drug-Target Binding Affinity](https://www.sciencedirect.com/science/article/abs/pii/S0020025522010908)**, **Zhaoyang Chu**, Feng Huang, Haitao Fu, Yuan Quan, Xionghui Zhou, Shichao Liu, Wen Zhang\*.
 
 <!--
 **Zhaoyang-Chu/Zhaoyang-Chu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
