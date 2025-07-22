@@ -1,12 +1,15 @@
 ## Hi there 👋
 
-🌟🌟 **I will be in Vienna, Austria in September for ISSTA 2024! Hope to meet many of you there!** 🤗🤗
+🌟🌟 **I will be in Rio de Janeiro, Brazil for [ICSE 2026](https://conf.researchr.org/home/icse-2026) next April—looking forward to meeting many of you there!** 🤗🤗
 
-🔭 I am a second-year master’s student in the School of Computer Science and Technology at [**Huazhong University of Science and Technology (HUST)**](https://www.hust.edu.cn), under the guidance of [**Prof. Yao Wan**](http://wanyao.me).
+🔭 I am an incoming PhD student in the Department of Computer Science at [**University College London (UCL)**](https://www.ucl.ac.uk/), where I will begin my studies in Fall 2025, co-supervised by [**Prof. He Ye**](https://heye.me/) and [**Prof. Federica Sarro**](http://www0.cs.ucl.ac.uk/staff/F.Sarro/).
+Previously, I completed my master's degree at the School of Computer Science and Technology, [**Huazhong University of Science and Technology (HUST)**](https://www.hust.edu.cn), advised by [**Prof. Yao Wan**](http://wanyao.me).
+My academic journey has also been enriched by collaborations with [**Prof. Lingming Zhang**](https://lingming.cs.illinois.edu/) at UIUC and [**Prof. Hongyu Zhang**](https://sites.google.com/site/hongyujohn/) at Chongqing University.
 
-✨ **I am currently seeking a PhD position in SE/ML for Fall 2025.** For an overview of my academic background, please look at my [**CV**](https://zhaoyang-chu.github.io/assets/ZhaoyangChu_CV.pdf). If you are interested, please feel free to contact me: [chuzhaoyang@hust.edu.cn](mailto:chuzhaoyang@hust.edu.cn) \| [zychu418@gmail.com](mailto:zychu418@gmail.com).
+> ✨ My research is inspired by the exciting frontiers at the intersection of **artificial intelligence** and **software engineering**, with a current focus on **multimodal coding agents**. I am passionate about building next-generation tools that make code smarter, more accessible, and more trustworthy.
+For more details about my academic background, please see my [**CV**](../assets/ZhaoyangChu_CV.pdf).
 
-😄 My research interest focuses on the intersection of **software engineering** and **machine learning**, where I am particularly intrigued by code intelligence, trustworthy artificial intelligence, and graph neural networks.
+😄 I am always eager to connect and collaborate—whether you share my interests or bring a different perspective from another field. If you’d like to discuss research, exchange ideas, or just say hi, feel free to reach out at [zychu418@gmail.com](mailto:zychu418@gmail.com).
 
 ### 💻 Homepages
 
@@ -14,12 +17,21 @@
 - Twitter: https://twitter.com/zhaoyang_c68411
 - LinkedIn: https://www.linkedin.com/in/zhaoyang-chu-ab3536306
 - Google Scholar: https://scholar.google.com/citations?user=HYu3DyEAAAAJ
+
+<!--
 - Blog: https://blog.csdn.net/qq_44009891?spm=1000.2115.3001.5343
+
 
 ### 🔥 News
 
-- *2024.03*: 🎉 Our latest research on counterfactual reasoning for GNN-based vulnerability detection has been accepted by ISSTA 2024!
-- *2022.09*: 🎉 One paper is published in Information Sciences!
+- *2025.07*: &nbsp;🎉 Our work on *LLM-as-a-Judge for code summarization* was accepted by **IEEE Transactions on Software Engineering**.
+- *2025.06*: &nbsp;🎉 Our paper on *machine unlearning for code LLMs* was accepted to **ICSE 2026**.
+- *2025.05*: &nbsp;🎉 Our research on *dynamic code knowledge synchronization for LLMs* was accepted to **ICML 2025**.
+- *2025.03*: &nbsp;🎉 Our SANER 2025 paper received the **IEEE TCSE Distinguished Paper Award🏆**!
+- *2025.01*: &nbsp;🎉 Our work on *test generation benchmark for LLMs* was accepted to **NAACL 2025 Findings**.
+- *2024.12*: &nbsp;🎉 Our study on *pre-trained code model selection for reuse* was accepted to **SANER 2025**.
+- *2024.03*: &nbsp;🎉 Our research on *counterfactual reasoning for GNN-based vulnerability detectio* was accepted to **ISSTA 2024**.
+
 
 ### 📝 Selected Papers
 
@@ -28,7 +40,6 @@ My full paper list is shown on [my personal homepage](https://zhaoyang-chu.githu
 - **ISSTA 2024**, **[Graph Neural Networks for Vulnerability Detection: A Counterfactual Explanation](https://arxiv.org/abs/2404.15687)**, **Zhaoyang Chu**, Yao Wan\*, Qian Li, Yang Wu, Hongyu Zhang, Yulei Sui, Guandong Xu, Hai Jin.
 - **Information Sciences 2022**, **[Hierarchical Graph Representation Learning for the Prediction of Drug-Target Binding Affinity](https://www.sciencedirect.com/science/article/abs/pii/S0020025522010908)**, **Zhaoyang Chu**, Feng Huang, Haitao Fu, Yuan Quan, Xionghui Zhou, Shichao Liu, Wen Zhang\*.
 
-<!--
 **Zhaoyang-Chu/Zhaoyang-Chu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
