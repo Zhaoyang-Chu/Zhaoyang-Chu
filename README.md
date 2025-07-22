@@ -7,7 +7,6 @@ Previously, I completed my master's degree at the School of Computer Science and
 My academic journey has also been enriched by collaborations with [**Prof. Lingming Zhang**](https://lingming.cs.illinois.edu/) at UIUC and [**Prof. Hongyu Zhang**](https://sites.google.com/site/hongyujohn/) at Chongqing University.
 
 > ✨ My research is inspired by the exciting frontiers at the intersection of **artificial intelligence** and **software engineering**, with a current focus on **multimodal coding agents**. I am passionate about building next-generation tools that make code smarter, more accessible, and more trustworthy.
-For more details about my academic background, please see my [**CV**](../assets/ZhaoyangChu_CV.pdf).
 
 😄 I am always eager to connect and collaborate—whether you share my interests or bring a different perspective from another field. If you’d like to discuss research, exchange ideas, or just say hi, feel free to reach out at [zychu418@gmail.com](mailto:zychu418@gmail.com).
 
@@ -20,8 +19,9 @@ For more details about my academic background, please see my [**CV**](../assets/
 
 <!--
 - Blog: https://blog.csdn.net/qq_44009891?spm=1000.2115.3001.5343
+-->
 
-
+<!--
 ### 🔥 News
 
 - *2025.07*: &nbsp;🎉 Our work on *LLM-as-a-Judge for code summarization* was accepted by **IEEE Transactions on Software Engineering**.
@@ -31,15 +31,20 @@ For more details about my academic background, please see my [**CV**](../assets/
 - *2025.01*: &nbsp;🎉 Our work on *test generation benchmark for LLMs* was accepted to **NAACL 2025 Findings**.
 - *2024.12*: &nbsp;🎉 Our study on *pre-trained code model selection for reuse* was accepted to **SANER 2025**.
 - *2024.03*: &nbsp;🎉 Our research on *counterfactual reasoning for GNN-based vulnerability detectio* was accepted to **ISSTA 2024**.
+-->
 
-
-### 📝 Selected Papers
+### 📝 Selected Publications
 
 My full paper list is shown on [my personal homepage](https://zhaoyang-chu.github.io).
 
-- **ISSTA 2024**, **[Graph Neural Networks for Vulnerability Detection: A Counterfactual Explanation](https://arxiv.org/abs/2404.15687)**, **Zhaoyang Chu**, Yao Wan\*, Qian Li, Yang Wu, Hongyu Zhang, Yulei Sui, Guandong Xu, Hai Jin.
+- **ICSE 2026**, [**Scrub It Out! Erasing Sensitive Memorization in Code Language Models via Machine Unlearning**](), **Zhaoyang Chu**, Yao Wan‡, Zhikun Zhang, Di Wang, Zhou Yang, Hongyu Zhang, Pan Zhou, Xuanhua Shi, Hai Jin, David Lo.
+- **ICML 2025**, [**CODESYNC: Synchronizing Large Language Models with Dynamic Code Evolution at Scale**](https://arxiv.org/abs/2502.16645), Chenlong Wang†, **Zhaoyang Chu†**, Zhengxiang Cheng†, Xuyi Yang, Kaiyue Qiu, Yao Wan‡, Zhou Zhao, Xuanhua Shi, Dongping Chen.
+- **ISSTA 2024**, [**Graph Neural Networks for Vulnerability Detection: A Counterfactual Explanation**](https://arxiv.org/abs/2404.15687), **Zhaoyang Chu**, Yao Wan‡, Qian Li, Yang Wu, Hongyu Zhang, Yulei Sui, Guandong Xu, Hai Jin.
+<!--
 - **Information Sciences 2022**, **[Hierarchical Graph Representation Learning for the Prediction of Drug-Target Binding Affinity](https://www.sciencedirect.com/science/article/abs/pii/S0020025522010908)**, **Zhaoyang Chu**, Feng Huang, Haitao Fu, Yuan Quan, Xionghui Zhou, Shichao Liu, Wen Zhang\*.
+-->
 
+<!--
 **Zhaoyang-Chu/Zhaoyang-Chu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
